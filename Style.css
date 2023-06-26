@@ -1,0 +1,55 @@
+.card-title{
+    text-align: center;
+    opacity: .5;
+}
+.card-price{
+    text-align: center;
+    font-size: 40px;
+}
+.btn-block{
+    text-align: center;
+    background-color: blue;
+    opacity: .8;
+    color: white;
+    padding: 10px 5px;
+    border-radius: 50px;
+    width: 25rem;
+    margin-left: 12px;
+}
+.btn-block:hover{
+    color: white;
+    text-decoration: none;
+}
+.container{
+    padding: 10px,20px; 
+    background-color: blue;
+    margin-top: 50px;
+    height: 650px;
+    margin-left: 40px;
+    margin-right: 40px;
+    max-width: 90rem;
+}
+.card{
+    padding: 10px 0px;
+    margin: 10px 0px;
+    border-radius: 10px;
+    height: 600px;
+    margin-left: 20px;
+}
+.card:hover{
+    transform: scaley(1.02);
+
+}
+ul{
+    display: grid;
+    
+}
+.period{
+    font-size: 20px;
+}
+hr{
+    height: 15px;
+}
+.dim{
+    opacity: 0.6;
+}
